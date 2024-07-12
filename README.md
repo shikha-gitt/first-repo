@@ -1,2 +1,4 @@
 # first-repo
-this is my first repo
+Hello!
+This is my first repo.
+
